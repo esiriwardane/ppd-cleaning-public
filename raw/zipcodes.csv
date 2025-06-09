@@ -1,0 +1,230 @@
+ppd_id,planname,ppd_zipcode
+1,Alabama ERS,36130
+2,Alabama Teachers,36130
+3,Alaska PERS,99811
+4,Alaska Teachers,99811
+5,Arizona Public Safety,85016
+6,Arizona SRS,85067
+7,Arkansas PERS,72201
+8,Arkansas Teachers,72201
+9,California PERF,95811
+10,California Teachers,95851
+11,Chicago Teachers,60601
+12,Austin ERS,78731
+13,Colorado Municipal,80203
+14,Colorado School,80203
+15,Colorado State,80203
+16,Connecticut SERS,6106
+17,Connecticut Teachers,6106
+18,Contra Costa County,94520
+19,DC Police & Fire,20001
+20,DC Teachers,20001
+21,Delaware State Employees,19904
+22,Denver Employees,80203
+23,Denver Schools,80203
+24,Duluth Teachers,55811
+25,Fairfax County Schools,22151
+26,Florida RS,32308
+27,Georgia ERS,30318
+28,Georgia Teachers,30318
+29,Hawaii ERS,96813
+30,Houston Firefighters,77032
+31,Idaho PERS,83702
+32,Illinois Municipal,60523
+33,Illinois SERS,60601
+34,Illinois Teachers,62702
+35,Illinois Universities,61820
+36,Indiana PERF,46204
+37,Indiana Teachers,46204
+38,Iowa PERS,50321
+39,Kansas PERS,66603
+40,Kentucky County,40601
+41,Kentucky ERS,40601
+42,Kentucky Teachers,40601
+43,LA County ERS,91101
+44,Louisiana SERS,70809
+45,Louisiana Teachers,70809
+46,Maine Local,4332
+47,Maine State and Teacher,4332
+48,Maryland PERS,21202
+49,Maryland Teachers,21202
+50,Massachusetts SRS,2109
+51,Massachusetts Teachers,2109
+52,Michigan Municipal,48917
+53,Michigan Public Schools,48909
+54,Michigan SERS,48909
+55,Minneapolis ERF,55415
+56,Minnesota GERF,55103
+57,Minnesota State Employees,55103
+58,Minnesota Teachers,55103
+59,Mississippi PERS,39201
+60,Missouri DOT and Highway,65109
+61,Missouri Local,65102
+62,Missouri PEERS,65109
+63,Missouri State Employees,65109
+64,Missouri Teachers,65109
+65,Montana PERS,59620
+66,Montana Teachers,59620
+67,Nebraska Schools,68508
+68,Nevada Police Officer and Firefighter,89703
+69,Nevada Regular Employees,89703
+70,New Hampshire RS,3301
+71,New Jersey PERS,8608
+72,New Jersey Police & Fire,8608
+73,New Jersey Teachers,8608
+74,New Mexico PERA,87110
+75,New Mexico Educational,87505
+76,New York City ERS,11201
+77,New York City Teachers,10041
+78,New York State Teachers,12211
+79,North Carolina Local Government,27604
+80,North Carolina Teachers and State Employees,27604
+81,North Dakota PERS,58507
+82,North Dakota Teachers,58507
+83,NY State & Local ERS,12236
+84,NY State & Local Police & Fire,12236
+85,Ohio PERS,43215
+86,Ohio Police & Fire,43215
+87,Ohio School Employees,43215
+88,Ohio Teachers,43215
+89,Oklahoma PERS,73112
+90,Oklahoma Teachers,73105
+91,Oregon PERS,97301
+92,Pennsylvania School Employees,17101
+93,Pennsylvania State ERS,17101
+94,Phoenix ERS,85003
+95,Rhode Island ERS,2903
+96,Rhode Island Municipal,2903
+97,San Diego County,92108
+98,San Francisco City & County,94103
+99,South Carolina Police,29201
+100,South Carolina RS,29201
+101,South Dakota RS,57106
+102,St. Louis School Employees,63108
+103,St. Paul Teachers,55104
+104,Texas County & District,78746
+105,Texas ERS,78701
+106,Texas LECOS,78701
+107,Texas Municipal,78701
+108,Texas Teachers,78701
+109,TN Political Subdivisions,37243
+110,TN State and Teachers,37243
+111,University of California,94607
+112,Utah Noncontributory,84102
+113,Vermont State Employees,5609
+114,Vermont Teachers,5609
+115,Virginia RS,23219
+117,Washington LEOFF Plan 2,98504
+119,Washington PERS 2/3,98504
+120,Washington School Employees Plan 2/3,98504
+122,Washington Teachers Plan 2/3,98504
+123,West Virginia PERS,25301
+124,West Virginia Teachers,25301
+125,Wisconsin RS,53703
+126,Wyoming Public Employees,82002
+127,Arizona State Corrections Officers,85016
+128,Connecticut Municipal,6106
+129,Iowa Municipal Fire and Police,50266
+130,Louisiana Municipal Police,70809
+131,Louisiana Schools,70809
+132,Louisiana Parochial Employees,70809
+133,Minnesota Police and Fire,55103
+134,Oklahoma Police,73116
+135,Utah Public Safety,84102
+136,Pennsylvania Municipal,17102
+137,Alameda County ERS,94612
+138,Kern County ERS,93311
+139,Los Angeles ERS,90012
+140,Los Angeles Fire and Police,90013
+141,Los Angeles Water and Power,90099
+142,Orange County ERS,92701
+143,Sacramento County ERS,95814
+144,San Diego City ERS,92101
+145,Chicago Municipal,60654
+146,Chicago Police,60601
+147,Cook County ERS,60602
+148,Boston RS,2201
+149,New York City Fire,11201
+150,New York City Police,10279
+151,Milwaukee City ERS,53202
+152,Philadelphia Municipal,19102
+153,Dallas Police and Fire,75219
+154,Detroit Police and Fire,48226
+155,Baltimore Fire and Police,21202
+156,Seattle ERS,98104
+158,Nashville-Davidson ERS,37210
+159,Jacksonville ERS,32202
+160,Cincinnati ERS,45202
+161,Atlanta ERS,30303
+162,Omaha School,68131
+163,Baton Rouge City Parish RS,70802
+164,Fairfax County ERS,22035
+165,Detroit General RS,48226
+166,Montgomery County Maryland ERS,20850
+167,Milwaukee County ERS,53233
+168,Miami Fire and Police,33129
+169,Providence ERS,2903
+170,Hartford MERF,6103
+171,Birmingham RRS,35203
+172,Omaha Police and Fire,68183
+173,Atlanta Police,30084
+174,Colorado State and School,80203
+175,Kansas City Missouri ERS,64106
+176,Tucson Supplemental RS,85701
+177,Lexington-Fayette County Police and Fire,40507
+178,Oklahoma City ERS,73102
+179,Wichita ERS,67202
+180,New Orleans ERS,70112
+181,New Castle County Pension,19720
+182,Charlotte Firefighters' RS,28202
+183,Pittsburgh Police,15219
+184,Anchorage Police and Fire,99519
+185,Sioux Falls ERS,57104
+186,Marion County Law Enforcement-Sheriff,34475
+187,Burlington ERS,5401
+188,Little Rock FiremenÕs Fund,72201
+189,"Charleston, WV Firemen's Pension",25301
+190,Manchester ERS,3101
+191,Knox County Teachers' DB Plan,37210
+192,Bismarck Employees' Pension Plan,58507
+193,Des Moines Water Works,50321
+194,Greenville Fire Pension Plan,29601
+195,Delaware County and Municipal Employees,19904
+196,Pittsburgh Municipal,15219
+197,Louisiana Municipal Employees,70809
+198,Oklahoma Municipal Employees,73116
+199,Vermont Municipal Employees,5609
+200,St. Louis Employees,63101
+201,Dallas ERS,75201
+202,Jersey City Municipal Employees,7302
+203,Omaha ERS,68183
+204,Houston Municipal,77002
+205,Atlanta Fire,30338
+206,Chicago Fire,60603
+207,Kansas City Schools,64111
+208,Houston Police,77007
+209,Wichita Police and Fire,67202
+210,Oklahoma Fire,73116
+211,New York City Educational,11201
+212,Jacksonville Fire and Police,32202
+213,Baltimore City Employees,21202
+214,Fairfax County Police,22035
+215,Chicago Laborers,60654
+216,Austin Fire,78746
+217,Austin Police,78704
+218,Fairfax County Uniformed,22033
+219,St. Louis Police,63103
+220,St. Louis Firemen,63104
+222,Kansas City (MO) Police,64137
+223,Kansas City (MO) Fire,64106
+224,Pittsburgh Fire,15219
+225,Birmingham Police and Fire,35222
+226,Miami General and Sanitation Employees,33133
+227,New Orleans Firefighters,70124
+228,Kansas City (MO) Civilian,64106
+229,Charlotte (NC) Law Enforcement,27604
+230,Bismarck Police Plan,58506
+231,Charleston (WV) Police,25301
+232,Sioux Falls Fire,57117
+233,Arkansas Police and Fire,72201
+234,Delaware Police and Fire,19904
